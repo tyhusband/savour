@@ -1,0 +1,57 @@
+.siteBorder {
+	background-color:#FCF3E4; 
+	border:10px solid #EB5A28; 
+	margin:0;
+}
+
+.textStyling {
+	font-family:lato;
+	color:#EB5A28;
+	font-size:16px;
+	padding-top:24px;
+	margin-left:20%;
+	margin-right:20%
+}
+
+.logoStyle {
+	max-width:40%;
+	padding-top:110px;
+}
+
+.thankYou {
+	max-width:40%; 
+	padding-top:45px;
+	}
+
+.social {
+	margin:0 5px 0;
+	width:40px;
+	height:40px
+}
+
+@media only screen and (max-width: 500px) {
+  .textStyling {
+	font-family:lato;
+	color:#EB5A28;
+	font-size:20px;
+	padding-top:50px;
+	margin-left:10%;
+	margin-right:10%
+	}
+
+  .thankYou {
+	max-width:80%; 
+	padding-top:45px;
+	}
+
+	.logoStyle {
+	max-width:80%;
+	padding-top:110px;
+	}
+
+	.social {
+	margin:0 5px 0;
+	width:60px;
+	height:60px
+	}
+}
