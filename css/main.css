@@ -14,7 +14,7 @@
 }
 
 .logoStyle {
-	max-width:40%;
+	max-width:30%;
 	padding-top:110px;
 }
 
@@ -29,7 +29,7 @@
 	height:40px
 }
 
-@media only screen and (max-width: 500px) {
+@media screen and (max-width: 500px) {
   .textStyling {
 	font-family:lato;
 	color:#EB5A28;
