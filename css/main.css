@@ -29,7 +29,7 @@
 	height:40px
 }
 
-@media screen and (max-width: 500px) {
+@media only screen and (max-width: 500px) {
   .textStyling {
 	font-family:lato;
 	color:#EB5A28;
